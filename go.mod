@@ -200,4 +200,4 @@ require (
 	howett.net/plist v1.0.0 // indirect
 )
 
-replace github.com/darkweak/souin => github.com/yuvalman/souin v1.6.50-0.20250522081116-e70a84dde841
+replace github.com/darkweak/souin => github.com/yuvalman/souin v1.6.50-0.20250611122101-ebc8289e5d7e
